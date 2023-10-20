@@ -1,6 +1,6 @@
 # Test-Automation
 
-For the website - https://www.saucedemo.com/
+Automated tests for the website - https://www.saucedemo.com/
 
 1. Login Test with incorrect username or password (check for error message)
 2. Login Test with the standard username (verify if you are logged in afterward)
